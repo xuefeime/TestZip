@@ -7,7 +7,8 @@
 //
 
 #import "Person.h"
-
 @implementation Person
-
+- (void)test{
+    
+}
 @end
